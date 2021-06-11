@@ -1,0 +1,8 @@
+good morning welcome to the course foundations of machine learning.|/home/anchit.gupta/deepvoice3_pytorch/audios/wavs/ml_1.mp4
+you must have heard that artificial intelligence is making great strides today and it is one of the most exciting branches of study.|/home/anchit.gupta/deepvoice3_pytorch/audios/wavs/ml_2.mp4
+machine learning is a key enabler of artificial intelligence it is about making computers to act without explicitly programming them.|/home/anchit.gupta/deepvoice3_pytorch/audios/wavs/ml_3.mp4
+machine learning is all pervasive today be it in business, industry, science, government, in solving the world's important tasks.|/home/anchit.gupta/deepvoice3_pytorch/audios/wavs/ml_4.mp4
+Hi there. I'm David Dye, and I'm going to introduce you to this course on linear algebra.|/home/anchit.gupta/deepvoice3_pytorch/audios/wavs/m4ml_1.mp4
+But in this video, I just want to take a moment to introduce the course and what we're trying to do here and to set the scene.|/home/anchit.gupta/deepvoice3_pytorch/audios/wavs/m4ml_2.mp4
+The world is awash with huge amounts of data.|/home/anchit.gupta/deepvoice3_pytorch/audios/wavs/m4ml_3.mp4
+If we just think about energy alone for a moment, our society literally lights up our planet from space.|/home/anchit.gupta/deepvoice3_pytorch/audios/wavs/m4ml_3.mp4
