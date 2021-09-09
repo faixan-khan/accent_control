@@ -2,7 +2,9 @@
 
 # Deepvoice3_pytorch with Lip Embeddings
 
-This work build upon the [Deepvoice3](https://github.com/r9y9/deepvoice3_pytorch). I add lip embeddings to the architecture which allows to control the accent of the speaker.
+This work was build upon [Deepvoice3](https://github.com/r9y9/deepvoice3_pytorch). 
+
+This work allows to control the accent of a speaker by making use of a pseudo-visual stream. The lip embeddings from the pseudo-visual stream are added to the deepvoice architecture allowing for accent control.
 
 This work was inspired from the following works:
 
